@@ -6,3 +6,7 @@
 ###### This is content with an H6 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+Added an image
+```
+
